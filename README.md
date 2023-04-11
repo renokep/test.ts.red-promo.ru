@@ -1,0 +1,1 @@
+# test.ts.red-promo.ru
